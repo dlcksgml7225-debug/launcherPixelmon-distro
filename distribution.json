@@ -12,7 +12,7 @@
       "name": "launcherPixelmon (Minecraft 1.16.5)",
       "description": "launcherPixelmon Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "launcherlike.mcok.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -437,6 +437,16 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5237,
+            "url": "https://raw.githubusercontent.com/dlcksgml7225-debug/launcherPixelmon-distro/main/servers/launcherPixelmon-1.16.5/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "Annahstas-Beastrinia-Resource-Pack-1.16.4.zip",
           "name": "Annahstas-Beastrinia-Resource-Pack-1.16.4.zip",
           "type": "File",
@@ -456,6 +466,16 @@
             "url": "https://raw.githubusercontent.com/dlcksgml7225-debug/launcherPixelmon-distro/main/servers/launcherPixelmon-1.16.5/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
             "MD5": "12e6cc2038852688c1e5086c57233c49",
             "path": "resourcepacks/리소스팩.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 90,
+            "url": "https://raw.githubusercontent.com/dlcksgml7225-debug/launcherPixelmon-distro/main/servers/launcherPixelmon-1.16.5/files/servers.dat",
+            "path": "servers.dat"
           }
         }
       ]
