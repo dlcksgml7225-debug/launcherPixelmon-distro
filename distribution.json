@@ -12,8 +12,8 @@
       "name": "launcherPixelmon (Minecraft 1.16.5)",
       "description": "launcherPixelmon Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": null,
-      "version": "1.0.1",
-      "address": "launcherlike.mcok.kr",
+      "version": "1.0.2",
+      "address": "14.206.48.23",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
